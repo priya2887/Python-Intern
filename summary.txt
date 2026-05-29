@@ -1,0 +1,12 @@
+Week 1 Summary
+--------------
+Concepts practiced:
+1. Variables, data types, and operators.
+2. Input/output basics.
+3. Conditional statements (if/else).
+4. Loops (for, while) and simple iteration.
+
+Programs created:
+1. Temperature converter (Celsius <-> Fahrenheit).
+2. Basic calculator (add, subtract, multiply, divide).
+3. Average temperature calculator for a weekly list.
