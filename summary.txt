@@ -1,10 +1,10 @@
-Week 3 Summary
+Week 4 Summary
 --------------
 Concepts practiced:
-1. NumPy arrays, operations, and broadcasting.
-2. Pandas DataFrames, indexing, and grouping.
-3. Data cleaning (missing values) and aggregation.
+1. Matplotlib for basic plots (line, bar, histogram).
+2. Seaborn for advanced plots (scatter, heatmap, pairplot).
+3. Saving plots to files for reporting.
 
 Programs created:
-1. NumPy and Pandas operations demo.
-2. Dataset cleaning and aggregation script.
+1. Basic visualization script producing line, bar, and histogram plots.
+2. Dashboard script producing scatter, heatmap, and pairplot images.
