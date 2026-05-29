@@ -1,10 +1,10 @@
-Week 2 Summary
+Week 3 Summary
 --------------
 Concepts practiced:
-1. Lists, tuples, dictionaries, and sets.
-2. Functions and list comprehensions.
-3. Lambda-style transformations and filtering logic.
+1. NumPy arrays, operations, and broadcasting.
+2. Pandas DataFrames, indexing, and grouping.
+3. Data cleaning (missing values) and aggregation.
 
 Programs created:
-1. Data structure utilities (sum of squares, filtering, unique items).
-2. Data cleaning script to remove duplicates and invalid entries.
+1. NumPy and Pandas operations demo.
+2. Dataset cleaning and aggregation script.
