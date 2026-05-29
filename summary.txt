@@ -1,12 +1,10 @@
-Week 1 Summary
+Week 2 Summary
 --------------
 Concepts practiced:
-1. Variables, data types, and operators.
-2. Input/output basics.
-3. Conditional statements (if/else).
-4. Loops (for, while) and simple iteration.
+1. Lists, tuples, dictionaries, and sets.
+2. Functions and list comprehensions.
+3. Lambda-style transformations and filtering logic.
 
 Programs created:
-1. Temperature converter (Celsius <-> Fahrenheit).
-2. Basic calculator (add, subtract, multiply, divide).
-3. Average temperature calculator for a weekly list.
+1. Data structure utilities (sum of squares, filtering, unique items).
+2. Data cleaning script to remove duplicates and invalid entries.
